@@ -1,6 +1,6 @@
 # GGP
 
-The data drame includes
+The data frame includes
 
 
 'Country'
